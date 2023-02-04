@@ -10,7 +10,7 @@ import java.util.Date;
 
 import java.util.stream.IntStream;
 
-public class EventTestRemove {
+public class EventTest {
     private final long MIN_TIME = 0;
     private final long MAX_TIME = Long.MAX_VALUE;
     private final int N_EVENT_PER_TYPE = 5; 
